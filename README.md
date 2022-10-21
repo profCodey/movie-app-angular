@@ -1,6 +1,6 @@
 # Angular MoviesExpo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
+This project was generated with version 8.3.9.
 
 ## Development server
 
@@ -24,7 +24,7 @@ Live Demo https://flixmovies-82298.firebaseapp.com
 ## Installation
 
 ```bash
-git clone https://github.com/abidakram01/angular-movie-app.git
+git clone https://github.com/profCodey/movie-app-angular.git
 cd angular-movie-app
 npm install
 ng serve and go to http://localhost:4200/
